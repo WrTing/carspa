@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/carspa.iml" filepath="$PROJECT_DIR$/.idea/carspa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carspa-admin/carspa-admin.iml" filepath="$PROJECT_DIR$/carspa-admin/carspa-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carspa-common/carspa-common.iml" filepath="$PROJECT_DIR$/carspa-common/carspa-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carspa-mbg/carspa-mbg.iml" filepath="$PROJECT_DIR$/carspa-mbg/carspa-mbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carspa-portal/carspa-portal.iml" filepath="$PROJECT_DIR$/carspa-portal/carspa-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carspa-search/carspa-search.iml" filepath="$PROJECT_DIR$/carspa-search/carspa-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carspa-security/carspa-security.iml" filepath="$PROJECT_DIR$/carspa-security/carspa-security.iml" />
+    </modules>
+  </component>
+</project>
