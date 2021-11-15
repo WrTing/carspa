@@ -11,14 +11,17 @@
         <module name="carspa-portal" />
         <module name="carspa-security" />
         <module name="carspa-common" />
-        <module name="carspa-admin" />
         <module name="carspa-search" />
+        <module name="carspa-commonES" />
+        <module name="carspa-commonRedis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="carspa" target="1.8" />
       <module name="carspa-admin" target="1.8" />
       <module name="carspa-common" target="1.8" />
+      <module name="carspa-commonES" target="1.8" />
+      <module name="carspa-commonRedis" target="1.8" />
       <module name="carspa-mbg" target="1.8" />
       <module name="carspa-portal" target="1.8" />
       <module name="carspa-search" target="1.8" />
@@ -29,6 +32,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="carspa-admin" options="-parameters" />
       <module name="carspa-common" options="-parameters" />
+      <module name="carspa-commonES" options="-parameters" />
+      <module name="carspa-commonRedis" options="-parameters" />
       <module name="carspa-mbg" options="-parameters" />
       <module name="carspa-portal" options="-parameters" />
       <module name="carspa-search" options="-parameters" />

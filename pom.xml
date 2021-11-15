@@ -13,9 +13,10 @@
         <module>carspa-common</module>
         <module>carspa-mbg</module>
         <module>carspa-security</module>
-        <module>carspa-admin</module>
         <module>carspa-search</module>
         <module>carspa-portal</module>
+        <module>carspa-commonRedis</module>
+        <module>carspa-commonES</module>
     </modules>
 
     <parent>
@@ -50,6 +51,7 @@
         <carspa-common.version>1.0-SNAPSHOT</carspa-common.version>
         <carspa-mbg.version>1.0-SNAPSHOT</carspa-mbg.version>
         <carspa-security.version>1.0-SNAPSHOT</carspa-security.version>
+        <elasticsearch.version>7.7.0</elasticsearch.version>
     </properties>
 
     <dependencies>
@@ -194,6 +196,11 @@
                 <groupId>io.minio</groupId>
                 <artifactId>minio</artifactId>
                 <version>${minio.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.elasticsearch.client</groupId>
+                <artifactId>elasticsearch-rest-high-level-client</artifactId>
+                <version>${elasticsearch.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

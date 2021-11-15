@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/carspa.iml" filepath="$PROJECT_DIR$/.idea/carspa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/carspa-admin/carspa-admin.iml" filepath="$PROJECT_DIR$/carspa-admin/carspa-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/carspa-common/carspa-common.iml" filepath="$PROJECT_DIR$/carspa-common/carspa-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carspa-commonES/carspa-commonES.iml" filepath="$PROJECT_DIR$/carspa-commonES/carspa-commonES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carspa-commonRedis/carspa-commonRedis.iml" filepath="$PROJECT_DIR$/carspa-commonRedis/carspa-commonRedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/carspa-mbg/carspa-mbg.iml" filepath="$PROJECT_DIR$/carspa-mbg/carspa-mbg.iml" />
       <module fileurl="file://$PROJECT_DIR$/carspa-portal/carspa-portal.iml" filepath="$PROJECT_DIR$/carspa-portal/carspa-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/carspa-search/carspa-search.iml" filepath="$PROJECT_DIR$/carspa-search/carspa-search.iml" />
