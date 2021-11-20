@@ -17,6 +17,7 @@
         <module>carspa-portal</module>
         <module>carspa-commonRedis</module>
         <module>carspa-commonES</module>
+        <module>carspa-commonMongodb</module>
     </modules>
 
     <parent>

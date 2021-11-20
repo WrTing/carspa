@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="carspa-commonMongodb" />
         <module name="carspa-mbg" />
         <module name="carspa-portal" />
         <module name="carspa-security" />
@@ -21,6 +22,7 @@
       <module name="carspa-admin" target="1.8" />
       <module name="carspa-common" target="1.8" />
       <module name="carspa-commonES" target="1.8" />
+      <module name="carspa-commonMongodb" target="1.8" />
       <module name="carspa-commonRedis" target="1.8" />
       <module name="carspa-mbg" target="1.8" />
       <module name="carspa-portal" target="1.8" />
@@ -33,6 +35,7 @@
       <module name="carspa-admin" options="-parameters" />
       <module name="carspa-common" options="-parameters" />
       <module name="carspa-commonES" options="-parameters" />
+      <module name="carspa-commonMongodb" options="-parameters" />
       <module name="carspa-commonRedis" options="-parameters" />
       <module name="carspa-mbg" options="-parameters" />
       <module name="carspa-portal" options="-parameters" />
